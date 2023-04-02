@@ -1,7 +1,8 @@
 # Olá, bem vindo ao meu perfil do GitHub! 👋
 ### Meu nome é Matheus Queiroz e sou estudante/futuro profissional na área de TI👨🏽‍💻
 
-![Status](https://github-readme-stats.vercel.app/api?username=mats057&hide=contribs,prs&count_private=true&show_icons=true&theme=github_dark)
+[![Status](https://github-readme-stats.vercel.app/api?username=mats057&hide=contribs,prs&count_private=true&show_icons=true&theme=github_dark)](https://github.com/Mats057)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mats057&layout=compact&theme=github_dark)](https://github.com/Mats057?tab=repositories)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
