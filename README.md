@@ -1,5 +1,5 @@
 # Olá, bem vindo ao meu perfil do GitHub! 👋
-### Meu nome é Matheus Queiroz e sou estudante/futuro profissional na área de TI👨🏽‍💻
+### Meu nome é Matheus Queiroz e sou um estudante buscando oportunidade profissional na área de TI👨🏽‍💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mats057&layout=compact&theme=github_dark)](https://github.com/Mats057?tab=repositories)
 
