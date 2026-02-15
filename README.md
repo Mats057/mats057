@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-### Hello! I'm Matheus, a software engineering student from Brazil passionate about development. I'm always seeking new challenges and opportunities to expand my knowledge and skills as a developer. This profile is my space to share the projects I've been working on and interesting collaborations.
+### Hello! I'm Matheus, a Software Engineer from Brazil passionate about development. I'm always seeking new challenges and opportunities to expand my knowledge and skills as a developer. This profile is my space to share the projects I've been working on and interesting collaborations.
 
 #### About Me:
 - 🎓 Currently, I'm pursuing a degree in software engineering at FIAP.
